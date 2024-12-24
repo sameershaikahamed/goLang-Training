@@ -15,3 +15,5 @@ touch helloworld
 https://go.dev/play/#
 
 https://cheatography.com/tag/golang/
+
+https://github.com/udhayprakash/GoLangMaterial/tree/master/08_Functions
