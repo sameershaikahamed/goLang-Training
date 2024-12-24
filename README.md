@@ -17,3 +17,6 @@ https://go.dev/play/#
 https://cheatography.com/tag/golang/
 
 https://github.com/udhayprakash/GoLangMaterial/tree/master/08_Functions
+
+
+https://github.com/udhayprakash/GolangBatchDec2024
